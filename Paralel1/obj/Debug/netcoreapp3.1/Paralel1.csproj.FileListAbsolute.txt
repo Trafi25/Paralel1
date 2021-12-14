@@ -1,0 +1,13 @@
+C:\Users\1\source\repos\Paralel1\Paralel1\bin\Debug\netcoreapp3.1\Paralel1.exe
+C:\Users\1\source\repos\Paralel1\Paralel1\bin\Debug\netcoreapp3.1\Paralel1.deps.json
+C:\Users\1\source\repos\Paralel1\Paralel1\bin\Debug\netcoreapp3.1\Paralel1.runtimeconfig.json
+C:\Users\1\source\repos\Paralel1\Paralel1\bin\Debug\netcoreapp3.1\Paralel1.runtimeconfig.dev.json
+C:\Users\1\source\repos\Paralel1\Paralel1\bin\Debug\netcoreapp3.1\Paralel1.dll
+C:\Users\1\source\repos\Paralel1\Paralel1\bin\Debug\netcoreapp3.1\Paralel1.pdb
+C:\Users\1\source\repos\Paralel1\Paralel1\obj\Debug\netcoreapp3.1\Paralel1.csprojAssemblyReference.cache
+C:\Users\1\source\repos\Paralel1\Paralel1\obj\Debug\netcoreapp3.1\Paralel1.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Paralel1\Paralel1\obj\Debug\netcoreapp3.1\Paralel1.AssemblyInfo.cs
+C:\Users\1\source\repos\Paralel1\Paralel1\obj\Debug\netcoreapp3.1\Paralel1.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Paralel1\Paralel1\obj\Debug\netcoreapp3.1\Paralel1.dll
+C:\Users\1\source\repos\Paralel1\Paralel1\obj\Debug\netcoreapp3.1\Paralel1.pdb
+C:\Users\1\source\repos\Paralel1\Paralel1\obj\Debug\netcoreapp3.1\Paralel1.genruntimeconfig.cache
