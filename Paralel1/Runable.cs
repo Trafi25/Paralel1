@@ -83,14 +83,19 @@ namespace Paralel1
 
 
 
-        void CAS(ref int val, int oldVal, int newVal)
+        public static bool CAS(ref int val, int oldVal, int newVal)
         {
-
+            var isBlock = false;
+            Monitor.Enter(locker, ref isBlock);
             if (val == oldVal)
             {
                 val = newVal;
                 Console.WriteLine($"Change the value to |{newVal}|");
+                if (isBlock) Monitor.Exit(locker);
+                return true;               
             }
+            if (isBlock) Monitor.Exit(locker);
+            return false;
         }
 
     }
