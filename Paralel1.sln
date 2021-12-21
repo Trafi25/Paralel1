@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paralel1", "Paralel1\Paralel1.csproj", "{EFBCCA75-1B42-431F-8DDE-86487D00121F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paralel1", "Paralel1\Paralel1.csproj", "{EFBCCA75-1B42-431F-8DDE-86487D00121F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "paralel2", "..\paralel2\paralel2\paralel2.csproj", "{9CCB6E0F-C0FA-44B3-AC61-4DD6F0F2A678}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Haris", "D:\paralel\Haris\Haris\Haris.csproj", "{9D78EF17-20FE-4602-8392-21249D86E464}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "akkaProg", "D:\paralel\akkaProg\akkaProg\akkaProg.csproj", "{F65E0A19-7F37-4EBA-86D6-E0DD28287215}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{EFBCCA75-1B42-431F-8DDE-86487D00121F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFBCCA75-1B42-431F-8DDE-86487D00121F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFBCCA75-1B42-431F-8DDE-86487D00121F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CCB6E0F-C0FA-44B3-AC61-4DD6F0F2A678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CCB6E0F-C0FA-44B3-AC61-4DD6F0F2A678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CCB6E0F-C0FA-44B3-AC61-4DD6F0F2A678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CCB6E0F-C0FA-44B3-AC61-4DD6F0F2A678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D78EF17-20FE-4602-8392-21249D86E464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D78EF17-20FE-4602-8392-21249D86E464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D78EF17-20FE-4602-8392-21249D86E464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D78EF17-20FE-4602-8392-21249D86E464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F65E0A19-7F37-4EBA-86D6-E0DD28287215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65E0A19-7F37-4EBA-86D6-E0DD28287215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65E0A19-7F37-4EBA-86D6-E0DD28287215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65E0A19-7F37-4EBA-86D6-E0DD28287215}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
