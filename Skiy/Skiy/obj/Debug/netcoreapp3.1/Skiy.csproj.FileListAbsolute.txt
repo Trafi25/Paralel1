@@ -1,0 +1,14 @@
+D:\paralel\Skiy\Skiy\bin\Debug\netcoreapp3.1\Skiy.exe
+D:\paralel\Skiy\Skiy\bin\Debug\netcoreapp3.1\Skiy.deps.json
+D:\paralel\Skiy\Skiy\bin\Debug\netcoreapp3.1\Skiy.runtimeconfig.json
+D:\paralel\Skiy\Skiy\bin\Debug\netcoreapp3.1\Skiy.runtimeconfig.dev.json
+D:\paralel\Skiy\Skiy\bin\Debug\netcoreapp3.1\Skiy.dll
+D:\paralel\Skiy\Skiy\bin\Debug\netcoreapp3.1\Skiy.pdb
+D:\paralel\Skiy\Skiy\obj\Debug\netcoreapp3.1\Skiy.csproj.AssemblyReference.cache
+D:\paralel\Skiy\Skiy\obj\Debug\netcoreapp3.1\Skiy.GeneratedMSBuildEditorConfig.editorconfig
+D:\paralel\Skiy\Skiy\obj\Debug\netcoreapp3.1\Skiy.AssemblyInfoInputs.cache
+D:\paralel\Skiy\Skiy\obj\Debug\netcoreapp3.1\Skiy.AssemblyInfo.cs
+D:\paralel\Skiy\Skiy\obj\Debug\netcoreapp3.1\Skiy.csproj.CoreCompileInputs.cache
+D:\paralel\Skiy\Skiy\obj\Debug\netcoreapp3.1\Skiy.dll
+D:\paralel\Skiy\Skiy\obj\Debug\netcoreapp3.1\Skiy.pdb
+D:\paralel\Skiy\Skiy\obj\Debug\netcoreapp3.1\Skiy.genruntimeconfig.cache
